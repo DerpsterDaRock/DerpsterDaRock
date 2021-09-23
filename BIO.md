@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DerpsterDaRock
+- 👀 I’m interested in, making a website
+- 🌱 I’m currently learning, CSS, Python, JavaScript, and HTML
